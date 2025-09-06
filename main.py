@@ -1,7 +1,7 @@
 import telebot
 
 # 🔑 حط التوكن حقك هنا
-TOKEN = "8286428933:AAF6MmG_FFJajXiyNIwRn3q7sx7P3jdgw4Y"
+TOKEN = "8286428933:AAFtpGzHC9lLdHUsP28z756avrSk0GxGEMg"
 bot = telebot.TeleBot(TOKEN)
 
 # ⚠️ التحذير يظهر بكل درس
